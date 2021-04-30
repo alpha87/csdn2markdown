@@ -1,11 +1,12 @@
+-i https://pypi.org/simple/
 beautifulsoup4==4.7.1
-certifi==2019.6.16
+certifi==2020.12.5
 chardet==3.0.4
 html2text==2018.1.9
 idna==2.8
 lxml==4.3.4
-PyExecJS==1.5.1
+pyexecjs==1.5.1
 requests==2.22.0
-six==1.12.0
-soupsieve==1.9.2
-urllib3==1.25.3
+six==1.15.0
+soupsieve==2.2.1
+urllib3==1.25.8
