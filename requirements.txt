@@ -3,7 +3,7 @@ certifi==2019.6.16
 chardet==3.0.4
 html2text==2018.1.9
 idna==2.8
-lxml==4.3.4
+lxml==4.9.1
 PyExecJS==1.5.1
 requests==2.22.0
 six==1.12.0
